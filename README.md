@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://aluraplay-nine.vercel.app/" target="_blank" rel="noopener noreferrer">ALURA SPA</a></h1>
+<h1 align="center"> <a href="" target="_blank" rel="noopener noreferrer">ALURA SPA</a></h1>
 
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -8,7 +8,7 @@
 </div><br>
 
 <div align="center">
-  
 
+https://user-images.githubusercontent.com/31187727/230256086-4416d553-56d4-4121-82ea-7c750afc0c85.mp4
  
 </div>
